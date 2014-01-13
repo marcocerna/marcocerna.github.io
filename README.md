@@ -1,9 +1,5 @@
-Created by Codrops
+Hi, I'm Marco
 
-http://www.codrops.com
+I like to write code. A recent graduate of General Assembly's Web Development Immersive program, I'm a full-stack web developer fluent in Ruby on Rails and deeply interested in Javascript.
 
-Integrate or build upon it for free in your personal or commercial projects. Please contact us first if you want to publish or sell ports (for example WordPress or Joomla plugins). Don't republish, redistribute or sell it "as-is". 
-
-Read more here: http://tympanus.net/codrops/licensing/
-
-iPad Psd Flat Mockup by Pixeden http://www.pixeden.com/psd-mock-up-templates/ipad-psd-flat-mockup
+This site showcases some of my projects.
