@@ -11,6 +11,10 @@ a:hover {
 	color: #f0f0f0;
 }
 
+.buttons > a:hover {
+	color: gray;
+}
+
 .cbp-so-scroller {
 	margin-top: 3em;
 	overflow: hidden;

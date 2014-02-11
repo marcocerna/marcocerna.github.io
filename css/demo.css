@@ -121,47 +121,11 @@ a:hover {
 	background: #fff;
 }
 
-/*.bp-icon:after {
-	font-family: 'bpicons';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	text-align: center;
-	color: #fff;
-	-webkit-font-smoothing: antialiased;
-}
-*/
-.container > header nav .bp-icon:after {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	line-height: 2;
-	text-indent: 0;
-}
 
 .container > header nav a:hover:after {
 	color: #47a3da;
 }
 
-/*.bp-icon-next:after {
-	content: "\e000";
-}
-.bp-icon-drop:after {
-	content: "\e001";
-}
-.bp-icon-archive:after {
-	content: "\e002";
-}
-.bp-icon-about:after {
-	content: "\e003";
-}
-.bp-icon-prev:after {
-	content: "\e004";
-}*/
 
 @media screen and (max-width: 55em) {
 
